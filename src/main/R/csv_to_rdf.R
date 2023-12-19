@@ -6,7 +6,7 @@ library(stringr)
 library(data.table)
 library(yaml)
 
-
+setwd(tempdir())
 
 to_jsonld <- function(dataframe) {
   # lees context
