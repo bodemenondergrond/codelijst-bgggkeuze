@@ -1,8 +1,8 @@
-# codelijst-bgggkeuzes
+# codelijst-bgggkeuze
 
 ## Samenvatting
 
-De codelijst 'bgggkeuzes' bevat eenduidige benamingen van ...
+De codelijst 'bgggkeuze' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

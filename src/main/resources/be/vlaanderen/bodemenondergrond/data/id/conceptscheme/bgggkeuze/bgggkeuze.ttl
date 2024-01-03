@@ -1,0 +1,3120 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/bgggkeuze/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/bgggkeuze/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:175  rdf:type           skos:Concept;
+        dc:identifier      "175";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. sterk kalkh. zandh. klei of leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:260  rdf:type           skos:Concept;
+        dc:identifier      "260";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:386  rdf:type           skos:Concept;
+        dc:identifier      "386";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1756  rdf:type          skos:Concept;
+        dc:identifier      "1756";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig schelph. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:103  rdf:type           skos:Concept;
+        dc:identifier      "103";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:290  rdf:type           skos:Concept;
+        dc:identifier      "290";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:229  rdf:type           skos:Concept;
+        dc:identifier      "229";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:314  rdf:type           skos:Concept;
+        dc:identifier      "314";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:28   rdf:type           skos:Concept;
+        dc:identifier      "28";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:133  rdf:type           skos:Concept;
+        dc:identifier      "133";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:259  rdf:type           skos:Concept;
+        dc:identifier      "259";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. weinig kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:344  rdf:type           skos:Concept;
+        dc:identifier      "344";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1690  rdf:type          skos:Concept;
+        dc:identifier      "1690";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:58   rdf:type           skos:Concept;
+        dc:identifier      "58";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:163  rdf:type           skos:Concept;
+        dc:identifier      "163";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:289  rdf:type           skos:Concept;
+        dc:identifier      "289";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:640  rdf:type           skos:Concept;
+        dc:identifier      "640";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:374  rdf:type           skos:Concept;
+        dc:identifier      "374";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1    rdf:type           skos:Concept;
+        dc:identifier      "1";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijn grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:88   rdf:type           skos:Concept;
+        dc:identifier      "88";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1744  rdf:type          skos:Concept;
+        dc:identifier      "1744";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh. leem à kalkh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:193  rdf:type           skos:Concept;
+        dc:identifier      "193";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:217  rdf:type           skos:Concept;
+        dc:identifier      "217";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. venige leem met schelpresten"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1689  rdf:type          skos:Concept;
+        dc:identifier      "1689";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:302  rdf:type           skos:Concept;
+        dc:identifier      "302";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. sterk humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:428  rdf:type           skos:Concept;
+        dc:identifier      "428";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:16   rdf:type           skos:Concept;
+        dc:identifier      "16";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:121  rdf:type           skos:Concept;
+        dc:identifier      "121";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig leemh. of kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:247  rdf:type           skos:Concept;
+        dc:identifier      "247";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. grindh. leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1593  rdf:type          skos:Concept;
+        dc:identifier      "1593";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. grofzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:332  rdf:type           skos:Concept;
+        dc:identifier      "332";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. of weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1617  rdf:type          skos:Concept;
+        dc:identifier      "1617";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:46   rdf:type           skos:Concept;
+        dc:identifier      "46";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. krijt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:151  rdf:type           skos:Concept;
+        dc:identifier      "151";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:277  rdf:type           skos:Concept;
+        dc:identifier      "277";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:362  rdf:type           skos:Concept;
+        dc:identifier      "362";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:76   rdf:type           skos:Concept;
+        dc:identifier      "76";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:181  rdf:type           skos:Concept;
+        dc:identifier      "181";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. grind en weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:205  rdf:type           skos:Concept;
+        dc:identifier      "205";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:392  rdf:type           skos:Concept;
+        dc:identifier      "392";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:416  rdf:type           skos:Concept;
+        dc:identifier      "416";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig kleih. fijnzand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:627  rdf:type           skos:Concept;
+        dc:identifier      "627";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:235  rdf:type           skos:Concept;
+        dc:identifier      "235";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:320  rdf:type           skos:Concept;
+        dc:identifier      "320";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1605  rdf:type          skos:Concept;
+        dc:identifier      "1605";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh leem à kalkh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:34   rdf:type           skos:Concept;
+        dc:identifier      "34";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:657  rdf:type           skos:Concept;
+        dc:identifier      "657";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:265  rdf:type           skos:Concept;
+        dc:identifier      "265";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:350  rdf:type           skos:Concept;
+        dc:identifier      "350";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:64   rdf:type           skos:Concept;
+        dc:identifier      "64";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:295  rdf:type           skos:Concept;
+        dc:identifier      "295";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. fijnzand of zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:108  rdf:type           skos:Concept;
+        dc:identifier      "108";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:380  rdf:type           skos:Concept;
+        dc:identifier      "380";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig kleih. fijnzand à weinig plastische zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:319  rdf:type           skos:Concept;
+        dc:identifier      "319";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:404  rdf:type           skos:Concept;
+        dc:identifier      "404";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. fijnzand à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1750  rdf:type          skos:Concept;
+        dc:identifier      "1750";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. weinig zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:94   rdf:type           skos:Concept;
+        dc:identifier      "94";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. sterk humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:138  rdf:type           skos:Concept;
+        dc:identifier      "138";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:223  rdf:type           skos:Concept;
+        dc:identifier      "223";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:349  rdf:type           skos:Concept;
+        dc:identifier      "349";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. weinig kalkh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1695  rdf:type          skos:Concept;
+        dc:identifier      "1695";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. à kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:434  rdf:type           skos:Concept;
+        dc:identifier      "434";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:168  rdf:type           skos:Concept;
+        dc:identifier      "168";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "slib"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:22   rdf:type           skos:Concept;
+        dc:identifier      "22";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:253  rdf:type           skos:Concept;
+        dc:identifier      "253";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1020  rdf:type          skos:Concept;
+        dc:identifier      "1020";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. sterk humush. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:379  rdf:type           skos:Concept;
+        dc:identifier      "379";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:6    rdf:type           skos:Concept;
+        dc:identifier      "6";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "gips"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1623  rdf:type          skos:Concept;
+        dc:identifier      "1623";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. weinig humush. weinig kalkh. fijnzand à zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:198  rdf:type           skos:Concept;
+        dc:identifier      "198";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1357  rdf:type          skos:Concept;
+        dc:identifier      "1357";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. weinig kalkh. grind en weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1749  rdf:type          skos:Concept;
+        dc:identifier      "1749";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig zandh. klei à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:283  rdf:type           skos:Concept;
+        dc:identifier      "283";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:52   rdf:type           skos:Concept;
+        dc:identifier      "52";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:307  rdf:type           skos:Concept;
+        dc:identifier      "307";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:82   rdf:type           skos:Concept;
+        dc:identifier      "82";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. zandh. leem met schelpresten"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:126  rdf:type           skos:Concept;
+        dc:identifier      "126";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:211  rdf:type           skos:Concept;
+        dc:identifier      "211";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1019  rdf:type          skos:Concept;
+        dc:identifier      "1019";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. sterk humush. weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1598  rdf:type          skos:Concept;
+        dc:identifier      "1598";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. en schelph. weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:337  rdf:type           skos:Concept;
+        dc:identifier      "337";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:422  rdf:type           skos:Concept;
+        dc:identifier      "422";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. fijnzand à weinig kalkh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:156  rdf:type           skos:Concept;
+        dc:identifier      "156";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:10   rdf:type           skos:Concept;
+        dc:identifier      "10";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:633  rdf:type           skos:Concept;
+        dc:identifier      "633";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. fijnzand à leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:241  rdf:type           skos:Concept;
+        dc:identifier      "241";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelph. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1611  rdf:type          skos:Concept;
+        dc:identifier      "1611";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1737  rdf:type          skos:Concept;
+        dc:identifier      "1737";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. schelph. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:186  rdf:type           skos:Concept;
+        dc:identifier      "186";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:40   rdf:type           skos:Concept;
+        dc:identifier      "40";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:271  rdf:type           skos:Concept;
+        dc:identifier      "271";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:397  rdf:type           skos:Concept;
+        dc:identifier      "397";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. zandh. klei à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:70   rdf:type           skos:Concept;
+        dc:identifier      "70";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:114  rdf:type           skos:Concept;
+        dc:identifier      "114";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:325  rdf:type           skos:Concept;
+        dc:identifier      "325";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:410  rdf:type           skos:Concept;
+        dc:identifier      "410";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. kleih. zand à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:39   rdf:type           skos:Concept;
+        dc:identifier      "39";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grofzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:144  rdf:type           skos:Concept;
+        dc:identifier      "144";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. slibh. fijnzand met slibmoten"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:621  rdf:type           skos:Concept;
+        dc:identifier      "621";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijn zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:355  rdf:type           skos:Concept;
+        dc:identifier      "355";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. grofzand en weinig grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:69   rdf:type           skos:Concept;
+        dc:identifier      "69";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:174  rdf:type           skos:Concept;
+        dc:identifier      "174";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. sterk kalkh. klei of leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:385  rdf:type           skos:Concept;
+        dc:identifier      "385";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. leem à weinig kalkh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:409  rdf:type           skos:Concept;
+        dc:identifier      "409";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. kleih. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1755  rdf:type          skos:Concept;
+        dc:identifier      "1755";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. zandh. klei à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:99   rdf:type           skos:Concept;
+        dc:identifier      "99";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. grindh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:102  rdf:type           skos:Concept;
+        dc:identifier      "102";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:228  rdf:type           skos:Concept;
+        dc:identifier      "228";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:313  rdf:type           skos:Concept;
+        dc:identifier      "313";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:27   rdf:type           skos:Concept;
+        dc:identifier      "27";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:132  rdf:type           skos:Concept;
+        dc:identifier      "132";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalktuf en schelpfragmenten weinig zandh."@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:258  rdf:type           skos:Concept;
+        dc:identifier      "258";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:343  rdf:type           skos:Concept;
+        dc:identifier      "343";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:57   rdf:type           skos:Concept;
+        dc:identifier      "57";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grind en weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:162  rdf:type           skos:Concept;
+        dc:identifier      "162";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:288  rdf:type           skos:Concept;
+        dc:identifier      "288";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:373  rdf:type           skos:Concept;
+        dc:identifier      "373";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. klei met schelpgruis"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:87   rdf:type           skos:Concept;
+        dc:identifier      "87";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. fijnzand of zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:192  rdf:type           skos:Concept;
+        dc:identifier      "192";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. grindh. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:216  rdf:type           skos:Concept;
+        dc:identifier      "216";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. sterk humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:301  rdf:type           skos:Concept;
+        dc:identifier      "301";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1688  rdf:type          skos:Concept;
+        dc:identifier      "1688";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig kleih. fijnzand à kalkh. zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:427  rdf:type           skos:Concept;
+        dc:identifier      "427";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:15   rdf:type           skos:Concept;
+        dc:identifier      "15";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:120  rdf:type           skos:Concept;
+        dc:identifier      "120";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig leemh. grofzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:246  rdf:type           skos:Concept;
+        dc:identifier      "246";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:331  rdf:type           skos:Concept;
+        dc:identifier      "331";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. of kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1616  rdf:type          skos:Concept;
+        dc:identifier      "1616";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:45   rdf:type           skos:Concept;
+        dc:identifier      "45";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:150  rdf:type           skos:Concept;
+        dc:identifier      "150";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelpengruish. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:276  rdf:type           skos:Concept;
+        dc:identifier      "276";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:361  rdf:type           skos:Concept;
+        dc:identifier      "361";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:75   rdf:type           skos:Concept;
+        dc:identifier      "75";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:180  rdf:type           skos:Concept;
+        dc:identifier      "180";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. en schelph. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:119  rdf:type           skos:Concept;
+        dc:identifier      "119";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:204  rdf:type           skos:Concept;
+        dc:identifier      "204";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:391  rdf:type           skos:Concept;
+        dc:identifier      "391";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. klei à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:415  rdf:type           skos:Concept;
+        dc:identifier      "415";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:149  rdf:type           skos:Concept;
+        dc:identifier      "149";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelpengruish. humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:626  rdf:type           skos:Concept;
+        dc:identifier      "626";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. à weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:234  rdf:type           skos:Concept;
+        dc:identifier      "234";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kleih. weinig zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1604  rdf:type          skos:Concept;
+        dc:identifier      "1604";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. leem met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:179  rdf:type           skos:Concept;
+        dc:identifier      "179";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. en schelpengruish. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:33   rdf:type           skos:Concept;
+        dc:identifier      "33";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:656  rdf:type           skos:Concept;
+        dc:identifier      "656";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:264  rdf:type           skos:Concept;
+        dc:identifier      "264";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:63   rdf:type           skos:Concept;
+        dc:identifier      "63";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. leemh. of kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:107  rdf:type           skos:Concept;
+        dc:identifier      "107";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:294  rdf:type           skos:Concept;
+        dc:identifier      "294";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:318  rdf:type           skos:Concept;
+        dc:identifier      "318";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:403  rdf:type           skos:Concept;
+        dc:identifier      "403";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. zandh. leem à klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:93   rdf:type           skos:Concept;
+        dc:identifier      "93";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. of schelph. sterk humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:137  rdf:type           skos:Concept;
+        dc:identifier      "137";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. weinig kalkh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:222  rdf:type           skos:Concept;
+        dc:identifier      "222";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:348  rdf:type           skos:Concept;
+        dc:identifier      "348";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. weinig humush. weinig kalkh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1694  rdf:type          skos:Concept;
+        dc:identifier      "1694";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:433  rdf:type           skos:Concept;
+        dc:identifier      "433";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leemh. fijnzand à zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:167  rdf:type           skos:Concept;
+        dc:identifier      "167";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:21   rdf:type           skos:Concept;
+        dc:identifier      "21";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:252  rdf:type           skos:Concept;
+        dc:identifier      "252";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:378  rdf:type           skos:Concept;
+        dc:identifier      "378";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. sterk humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:5    rdf:type           skos:Concept;
+        dc:identifier      "5";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1748  rdf:type          skos:Concept;
+        dc:identifier      "1748";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. veen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1356  rdf:type          skos:Concept;
+        dc:identifier      "1356";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelpengruish. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:197  rdf:type           skos:Concept;
+        dc:identifier      "197";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:282  rdf:type           skos:Concept;
+        dc:identifier      "282";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grofzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:51   rdf:type           skos:Concept;
+        dc:identifier      "51";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:306  rdf:type           skos:Concept;
+        dc:identifier      "306";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. veen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:81   rdf:type           skos:Concept;
+        dc:identifier      "81";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1597  rdf:type          skos:Concept;
+        dc:identifier      "1597";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. grindh. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:210  rdf:type           skos:Concept;
+        dc:identifier      "210";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1018  rdf:type          skos:Concept;
+        dc:identifier      "1018";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:421  rdf:type           skos:Concept;
+        dc:identifier      "421";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:155  rdf:type           skos:Concept;
+        dc:identifier      "155";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:632  rdf:type           skos:Concept;
+        dc:identifier      "632";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijn grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:240  rdf:type           skos:Concept;
+        dc:identifier      "240";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelph. weinig humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:366  rdf:type           skos:Concept;
+        dc:identifier      "366";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1610  rdf:type          skos:Concept;
+        dc:identifier      "1610";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. fijn grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:185  rdf:type           skos:Concept;
+        dc:identifier      "185";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1736  rdf:type          skos:Concept;
+        dc:identifier      "1736";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. schelph. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:270  rdf:type           skos:Concept;
+        dc:identifier      "270";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+cs:bgggkeuze  skos:hasTopConcept  ct:338 , ct:30 , ct:284 , ct:242 , ct:331 , ct:360 , ct:300 , ct:172 , ct:1738 , ct:1695 , ct:248 , ct:349 , ct:41 , ct:1610 , ct:179 , ct:268 , ct:1749 , ct:297 , ct:424 , ct:115 , ct:344 , ct:122 , ct:4 , ct:1616 , ct:400 , ct:343 , ct:390 , ct:272 , ct:1621 , ct:230 , ct:279 , ct:391 , ct:189 , ct:640 , ct:160 , ct:53 , ct:236 , ct:308 , ct:411 , ct:108 , ct:354 , ct:337 , ct:1599 , ct:283 , ct:397 , ct:1609 , ct:1019 , ct:241 , ct:330 , ct:204 , ct:91 , ct:240 , ct:1018 , ct:256 , ct:247 , ct:319 , ct:170 , ct:103 , ct:36 , ct:229 , ct:318 , ct:1604 , ct:215 , ct:260 , ct:633 , ct:98 , ct:267 , ct:423 , ct:177 , ct:114 , ct:266 , ct:295 , ct:3 , ct:224 , ct:329 , ct:1615 , ct:153 , ct:342 , ct:271 , ct:385 , ct:2 , ct:419 , ct:159 , ct:249 , ct:188 , ct:277 , ct:23 , ct:48 , ct:235 , ct:84 , ct:1598 , ct:107 , ct:396 , ct:1608 , ct:217 , ct:306 , ct:1597 , ct:203 , ct:621 , ct:425 , ct:1617 , ct:102 , ct:254 , ct:165 , ct:1688 , ct:228 , ct:317 , ct:1603 , ct:101 , ct:1021 , ct:129 , ct:1753 , ct:407 , ct:292 , ct:96 , ct:147 , ct:11 , ct:265 , ct:176 , ct:223 , ct:72 , ct:112 , ct:384 , ct:373 , ct:222 , ct:1 , ct:418 , ct:151 , ct:623 , ct:205 , ct:383 , ct:78 , ct:158 , ct:417 , ct:18 , ct:430 , ct:379 , ct:629 , ct:83 , ct:233 , ct:216 , ct:82 , ct:305 , ct:1596 , ct:347 , ct:394 , ct:89 , ct:29 , ct:323 , ct:195 , ct:135 , ct:28 , ct:164 , ct:253 , ct:1747 , ct:1687 , ct:100 , ct:163 , ct:1752 , ct:1601 , ct:210 , ct:259 , ct:9 , ct:66 , ct:1751 , ct:405 , ct:95 , ct:39 , ct:146 , ct:1758 , ct:290 , ct:145 , ct:174 , ct:221 , ct:70 , ct:310 , ct:150 , ct:335 , ct:382 , ct:371 , ct:77 , ct:416 , ct:311 , ct:183 , ct:378 , ct:628 , ct:156 , ct:16 , ct:1735 , ct:1353 , ct:81 , ct:194 , ct:54 , ct:27 , ct:1746 , ct:355 , ct:133 , ct:162 , ct:251 , ct:428 , ct:8 , ct:1750 , ct:404 , ct:366 , ct:171 , ct:64 , ct:144 , ct:93 , ct:1694 , ct:348 , ct:365 , ct:40 , ct:105 , ct:47 , ct:370 , ct:46 , ct:182 , ct:75 , ct:296 , ct:15 , ct:376 , ct:181 , ct:208 , ct:626 , ct:1734 , ct:121 , ct:226 , ct:1358 , ct:1620 , ct:278 , ct:127 , ct:434 , ct:192 , ct:52 , ct:132 , ct:410 , ct:59 , ct:353 , ct:1744 , ct:282 , ct:289 , ct:138 , ct:90 , ct:34 , ct:199 , ct:288 , ct:63 , ct:1693 , ct:246 , ct:364 , ct:1022 , ct:1692 , ct:1619 , ct:214 , ct:303 , ct:632 , ct:45 , ct:180 , ct:422 , ct:113 , ct:294 , ct:239 , ct:120 , ct:13 , ct:328 , ct:341 , ct:270 , ct:314 , ct:126 , ct:433 , ct:22 , ct:187 , ct:276 , ct:51 , ct:1685 , ct:234 , ct:106 , ct:352 , ct:130 , ct:395 , ct:1607 , ct:57 , ct:202 , ct:358 , ct:620 , ct:33 , ct:198 , ct:119 , ct:287 , ct:245 , ct:334 , ct:1691 , ct:227 , ct:244 , ct:316 , ct:1602 , ct:1020 , ct:128 , ct:302 , ct:631 , ct:421 , ct:10 , ct:264 , ct:175 , ct:327 , ct:1613 , ct:420 , ct:111 , ct:340 , ct:139 , ct:619 , ct:1612 , ct:299 , ct:157 , ct:346 , ct:186 , ct:21 , ct:389 , ct:6 , ct:275 , ct:402 , ct:322 , ct:657 , ct:185 , ct:20 , ct:1623 , ct:232 , ct:304 , ct:321 , ct:1595 , ct:350 , ct:393 , ct:88 , ct:413 , ct:339 , ct:31 , ct:252 , ct:1686 , ct:243 , ct:315 , ct:429 , ct:332 , ct:1600 , ct:169 , ct:258 , ct:94 , ct:38 , ct:263 , ct:1757 , ct:173 , ct:262 , ct:110 , ct:1611 , ct:220 , ct:269 , ct:359 , ct:76 , ct:381 , ct:116 , ct:415 , ct:388 , ct:5 , ct:377 , ct:209 , ct:401 , ct:155 , ct:627 , ct:656 , ct:273 , ct:387 , ct:231 , ct:80 , ct:320 , ct:1594 , ct:392 , ct:87 , ct:1593 , ct:193 , ct:237 , ct:86 , ct:309 , ct:109 , ct:26 , ct:398 , ct:219 , ct:1745 , ct:1392 , ct:161 , ct:250 , ct:168 , ct:257 , ct:427 , ct:7 , ct:403 , ct:167 , ct:37 , ct:104 , ct:1756 , ct:1605 , ct:143 , ct:92 , ct:261 , ct:1755 , ct:409 , ct:99 , ct:149 , ct:380 , ct:178 , ct:414 , ct:225 , ct:74 , ct:154 , ct:14 , ct:386 , ct:375 , ct:201 , ct:207 , ct:625 , ct:200 , ct:49 , ct:1357 , ct:281 , ct:85 , ct:25 , ct:191 , ct:280 , ct:307 , ct:218 , ct:131 , ct:24 , ct:58 , ct:426 , ct:117 , ct:325 , ct:137 , ct:1618 , ct:166 , ct:255 , ct:1689 , ct:213 , ct:62 , ct:142 , ct:69 , ct:363 , ct:408 , ct:1754 , ct:141 , ct:68 , ct:293 , ct:97 , ct:148 , ct:238 , ct:44 , ct:73 , ct:374 , ct:206 , ct:624 , ct:152 , ct:12 , ct:79 , ct:19 , ct:431 , ct:313 , ct:1356 , ct:1606 , ct:1737 , ct:190 , ct:432 , ct:1355 , ct:50 , ct:351 , ct:324 , ct:196 , ct:56 , ct:136 , ct:1748 , ct:357 , ct:32 , ct:286 , ct:118 , ct:61 , ct:197 , ct:333 , ct:362 , ct:211 , ct:60 , ct:140 , ct:1690 , ct:67 , ct:361 , ct:406 , ct:301 , ct:630 , ct:43 , ct:618 , ct:291 , ct:1696 , ct:42 , ct:71 , ct:326 , ct:372 , ct:312 , ct:184 , ct:298 , ct:124 , ct:17 , ct:1736 , ct:345 , ct:1354 , ct:274 , ct:123 , ct:55 , ct:356 , ct:285 , ct:134 , ct:399 , ct:412 .
+
+ct:209  rdf:type           skos:Concept;
+        dc:identifier      "209";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:396  rdf:type           skos:Concept;
+        dc:identifier      "396";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. à kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:113  rdf:type           skos:Concept;
+        dc:identifier      "113";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:239  rdf:type           skos:Concept;
+        dc:identifier      "239";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelph. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:324  rdf:type           skos:Concept;
+        dc:identifier      "324";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1609  rdf:type          skos:Concept;
+        dc:identifier      "1609";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:38   rdf:type           skos:Concept;
+        dc:identifier      "38";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:143  rdf:type           skos:Concept;
+        dc:identifier      "143";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. slibh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:269  rdf:type           skos:Concept;
+        dc:identifier      "269";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:620  rdf:type           skos:Concept;
+        dc:identifier      "620";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh."@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:354  rdf:type           skos:Concept;
+        dc:identifier      "354";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. grofzand en grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+colt:bgggkeuze  rdf:type      skos:Collection;
+        dc:identifier         "bgggkeuze";
+        skos:inScheme         <file:///tmp/RtmpjRDLYB/cs>;
+        skos:mappingRelation  <file:///tmp/RtmpjRDLYB/bgggkeuze>;
+        skos:member           ct:329 , ct:278 , ct:6 , ct:146 , ct:417 , ct:24 , ct:373 , ct:184 , ct:11 , ct:401 , ct:241 , ct:410 , ct:421 , ct:1392 , ct:340 , ct:32 , ct:631 , ct:41 , ct:377 , ct:236 , ct:245 , ct:188 , ct:18 , ct:104 , ct:69 , ct:338 , ct:133 , ct:381 , ct:206 , ct:347 , ct:626 , ct:215 , ct:1597 , ct:171 , ct:334 , ct:277 , ct:1019 , ct:1608 , ct:416 , ct:1353 , ct:227 , ct:74 , ct:83 , ct:270 , ct:427 , ct:94 , ct:1601 , ct:355 , ct:298 , ct:223 , ct:640 , ct:166 , ct:175 , ct:316 , ct:27 , ct:78 , ct:139 , ct:1687 , ct:396 , ct:360 , ct:264 , ct:180 , ct:132 , ct:48 , ct:61 , ct:313 , ct:82 , ct:153 , ct:364 , ct:259 , ct:268 , ct:93 , ct:1616 , ct:232 , ct:127 , ct:136 , ct:1695 , ct:1748 , ct:100 , ct:14 , ct:56 , ct:8 , ct:290 , ct:202 , ct:1593 , ct:1753 , ct:157 , ct:321 , ct:273 , ct:330 , ct:1621 , ct:403 , ct:118 , ct:22 , ct:412 , ct:195 , ct:358 , ct:432 , ct:60 , ct:300 , ct:294 , ct:351 , ct:210 , ct:162 , ct:319 , ct:1757 , ct:238 , ct:407 , ct:379 , ct:247 , ct:199 , ct:115 , ct:383 , ct:392 , ct:349 , ct:251 , ct:260 , ct:217 , ct:208 , ct:628 , ct:288 , ct:1619 , ct:621 , ct:156 , ct:31 , ct:1355 , ct:85 , ct:387 , ct:1735 , ct:106 , ct:96 , ct:306 , ct:255 , ct:59 , ct:1603 , ct:1612 , ct:1691 , ct:123 , ct:1744 , ct:52 , ct:177 , ct:350 , ct:293 , ct:1596 , ct:29 , ct:38 , ct:89 , ct:4 , ct:371 , ct:226 , ct:182 , ct:191 , ct:345 , ct:354 , ct:297 , ct:1685 , ct:213 , ct:46 , ct:619 , ct:315 , ct:1618 , ct:324 , ct:129 , ct:375 , ct:280 , ct:234 , ct:186 , ct:138 , ct:657 , ct:243 , ct:102 , ct:16 , ct:386 , ct:111 , ct:1022 , ct:51 , ct:624 , ct:1358 , ct:275 , ct:284 , ct:3 , ct:332 , ct:143 , ct:99 , ct:152 , ct:200 , ct:109 , ct:425 , ct:72 , ct:414 , ct:55 , ct:173 , ct:279 , ct:249 , ct:147 , ct:418 , ct:25 , ct:618 , ct:429 , ct:76 , ct:117 , ct:409 , ct:374 , ct:402 , ct:411 , ct:422 , ct:262 , ct:219 , ct:130 , ct:341 , ct:33 , ct:632 , ct:42 , ct:378 , ct:237 , ct:311 , ct:80 , ct:19 , ct:266 , ct:230 , ct:339 , ct:134 , ct:382 , ct:430 , ct:12 , ct:1598 , ct:172 , ct:1609 , ct:1751 , ct:1354 , ct:228 , ct:75 , ct:271 , ct:428 , ct:1734 , ct:95 , ct:193 , ct:20 , ct:105 , ct:356 , ct:299 , ct:167 , ct:224 , ct:176 , ct:1755 , ct:317 , ct:326 , ct:1623 , ct:79 , ct:405 , ct:1688 , ct:397 , ct:197 , ct:361 , ct:370 , ct:90 , ct:265 , ct:113 , ct:49 , ct:62 , ct:286 , ct:314 , ct:154 , ct:1696 , ct:365 , ct:269 , ct:233 , ct:304 , ct:15 , ct:57 , ct:66 , ct:1610 , ct:121 , ct:335 , ct:203 , ct:291 , ct:1594 , ct:149 , ct:158 , ct:1754 , ct:36 , ct:322 , ct:404 , ct:308 , ct:119 , ct:196 , ct:23 , ct:413 , ct:424 , ct:433 , ct:301 , ct:343 , ct:352 , ct:295 , ct:211 , ct:220 , ct:163 , ct:1758 , ct:44 , ct:408 , ct:248 , ct:116 , ct:384 , ct:393 , ct:1020 , ct:252 , ct:218 , ct:209 , ct:261 , ct:629 , ct:120 , ct:289 , ct:1356 , ct:239 , ct:86 , ct:282 , ct:1 , ct:70 , ct:97 , ct:150 , ct:141 , ct:256 , ct:307 , ct:388 , ct:107 , ct:1604 , ct:124 , ct:1613 , ct:1692 , ct:1736 , ct:1745 , ct:53 , ct:178 , ct:328 , ct:39 , ct:5 , ct:145 , ct:1750 , ct:372 , ct:10 , ct:400 , ct:240 , ct:183 , ct:346 , ct:420 , ct:192 , ct:47 , ct:630 , ct:40 , ct:325 , ct:376 , ct:281 , ct:235 , ct:244 , ct:187 , ct:103 , ct:17 , ct:112 , ct:68 , ct:337 , ct:380 , ct:205 , ct:625 , ct:214 , ct:170 , ct:333 , ct:285 , ct:276 , ct:1018 , ct:1607 , ct:201 , ct:144 , ct:415 , ct:426 , ct:73 , ct:1600 , ct:303 , ct:222 , ct:165 , ct:174 , ct:148 , ct:419 , ct:26 , ct:77 , ct:1686 , ct:395 , ct:423 , ct:263 , ct:169 , ct:131 , ct:342 , ct:34 , ct:633 , ct:43 , ct:1738 , ct:1606 , ct:399 , ct:81 , ct:312 , ct:363 , ct:258 , ct:92 , ct:267 , ct:1615 , ct:231 , ct:126 , ct:135 , ct:431 , ct:1694 , ct:13 , ct:1747 , ct:64 , ct:1599 , ct:7 , ct:1752 , ct:320 , ct:229 , ct:272 , ct:1620 , ct:140 , ct:194 , ct:21 , ct:357 , ct:168 , ct:225 , ct:1756 , ct:161 , ct:318 , ct:327 , ct:406 , ct:1689 , ct:189 , ct:198 , ct:398 , ct:246 , ct:362 , ct:114 , ct:91 , ct:348 , ct:391 , ct:250 , ct:216 , ct:63 , ct:207 , ct:627 , ct:287 , ct:620 , ct:155 , ct:30 , ct:366 , ct:84 , ct:305 , ct:1690 , ct:254 , ct:58 , ct:67 , ct:1602 , ct:1611 , ct:122 , ct:292 , ct:204 , ct:1595 , ct:159 , ct:160 , ct:28 , ct:37 , ct:88 , ct:309 , ct:434 , ct:181 , ct:190 , ct:390 , ct:344 , ct:353 , ct:296 , ct:302 , ct:221 , ct:164 , ct:45 , ct:1749 , ct:1617 , ct:323 , ct:128 , ct:242 , ct:656 , ct:394 , ct:185 , ct:101 , ct:253 , ct:385 , ct:137 , ct:110 , ct:310 , ct:1021 , ct:9 , ct:50 , ct:623 , ct:1357 , ct:274 , ct:283 , ct:87 , ct:2 , ct:389 , ct:142 , ct:71 , ct:98 , ct:151 , ct:359 , ct:257 , ct:108 , ct:331 , ct:1605 , ct:1693 , ct:1737 , ct:1746 , ct:54 , ct:179;
+        skos:prefLabel        "Collectie van bgggkeuze."@nl .
+
+ct:173  rdf:type           skos:Concept;
+        dc:identifier      "173";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. leemh. of kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:68   rdf:type           skos:Concept;
+        dc:identifier      "68";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:299  rdf:type           skos:Concept;
+        dc:identifier      "299";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:384  rdf:type           skos:Concept;
+        dc:identifier      "384";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. klei à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:408  rdf:type           skos:Concept;
+        dc:identifier      "408";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. grindh. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1754  rdf:type          skos:Concept;
+        dc:identifier      "1754";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. zandh. klei à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:98   rdf:type           skos:Concept;
+        dc:identifier      "98";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:101  rdf:type           skos:Concept;
+        dc:identifier      "101";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:619  rdf:type           skos:Concept;
+        dc:identifier      "619";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleihoudend (fijn) zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:227  rdf:type           skos:Concept;
+        dc:identifier      "227";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:312  rdf:type           skos:Concept;
+        dc:identifier      "312";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1392  rdf:type          skos:Concept;
+        dc:identifier      "1392";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "glauconieth. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:26   rdf:type           skos:Concept;
+        dc:identifier      "26";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. mergel"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:131  rdf:type           skos:Concept;
+        dc:identifier      "131";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalktuf"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:257  rdf:type           skos:Concept;
+        dc:identifier      "257";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:342  rdf:type           skos:Concept;
+        dc:identifier      "342";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:56   rdf:type           skos:Concept;
+        dc:identifier      "56";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grind en leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:161  rdf:type           skos:Concept;
+        dc:identifier      "161";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig humush. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:287  rdf:type           skos:Concept;
+        dc:identifier      "287";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:372  rdf:type           skos:Concept;
+        dc:identifier      "372";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:86   rdf:type           skos:Concept;
+        dc:identifier      "86";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:191  rdf:type           skos:Concept;
+        dc:identifier      "191";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:215  rdf:type           skos:Concept;
+        dc:identifier      "215";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1687  rdf:type          skos:Concept;
+        dc:identifier      "1687";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. à leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:300  rdf:type           skos:Concept;
+        dc:identifier      "300";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:426  rdf:type           skos:Concept;
+        dc:identifier      "426";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. sterk kalkh. weinig zandh. leem à klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:14   rdf:type           skos:Concept;
+        dc:identifier      "14";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:245  rdf:type           skos:Concept;
+        dc:identifier      "245";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "veen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:330  rdf:type           skos:Concept;
+        dc:identifier      "330";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. grofzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1615  rdf:type          skos:Concept;
+        dc:identifier      "1615";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:44   rdf:type           skos:Concept;
+        dc:identifier      "44";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:275  rdf:type           skos:Concept;
+        dc:identifier      "275";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:360  rdf:type           skos:Concept;
+        dc:identifier      "360";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. weinig slibh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:74   rdf:type           skos:Concept;
+        dc:identifier      "74";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:118  rdf:type           skos:Concept;
+        dc:identifier      "118";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:203  rdf:type           skos:Concept;
+        dc:identifier      "203";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:390  rdf:type           skos:Concept;
+        dc:identifier      "390";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:329  rdf:type           skos:Concept;
+        dc:identifier      "329";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:414  rdf:type           skos:Concept;
+        dc:identifier      "414";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zandh. leem à leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:148  rdf:type           skos:Concept;
+        dc:identifier      "148";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "mergel"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:625  rdf:type           skos:Concept;
+        dc:identifier      "625";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. steengruis"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:233  rdf:type           skos:Concept;
+        dc:identifier      "233";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zandh. veen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:359  rdf:type           skos:Concept;
+        dc:identifier      "359";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. sterk slibh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1603  rdf:type          skos:Concept;
+        dc:identifier      "1603";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. fijn grind en grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:178  rdf:type           skos:Concept;
+        dc:identifier      "178";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. en schelpengruish. humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:32   rdf:type           skos:Concept;
+        dc:identifier      "32";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:263  rdf:type           skos:Concept;
+        dc:identifier      "263";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:389  rdf:type           skos:Concept;
+        dc:identifier      "389";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. fijnzand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:62   rdf:type           skos:Concept;
+        dc:identifier      "62";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:106  rdf:type           skos:Concept;
+        dc:identifier      "106";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:293  rdf:type           skos:Concept;
+        dc:identifier      "293";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:317  rdf:type           skos:Concept;
+        dc:identifier      "317";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:402  rdf:type           skos:Concept;
+        dc:identifier      "402";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. leemh. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:92   rdf:type           skos:Concept;
+        dc:identifier      "92";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:136  rdf:type           skos:Concept;
+        dc:identifier      "136";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:221  rdf:type           skos:Concept;
+        dc:identifier      "221";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:347  rdf:type           skos:Concept;
+        dc:identifier      "347";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. weinig humush. weinig kalkh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1693  rdf:type          skos:Concept;
+        dc:identifier      "1693";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. sterk humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:432  rdf:type           skos:Concept;
+        dc:identifier      "432";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leemh. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:166  rdf:type           skos:Concept;
+        dc:identifier      "166";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:20   rdf:type           skos:Concept;
+        dc:identifier      "20";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:251  rdf:type           skos:Concept;
+        dc:identifier      "251";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. kalksteen of krijt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:377  rdf:type           skos:Concept;
+        dc:identifier      "377";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:4    rdf:type           skos:Concept;
+        dc:identifier      "4";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1621  rdf:type          skos:Concept;
+        dc:identifier      "1621";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1747  rdf:type          skos:Concept;
+        dc:identifier      "1747";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. kalksteen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1355  rdf:type          skos:Concept;
+        dc:identifier      "1355";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelpengruish. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:196  rdf:type           skos:Concept;
+        dc:identifier      "196";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:281  rdf:type           skos:Concept;
+        dc:identifier      "281";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:50   rdf:type           skos:Concept;
+        dc:identifier      "50";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. weinig kalkh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:305  rdf:type           skos:Concept;
+        dc:identifier      "305";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:80   rdf:type           skos:Concept;
+        dc:identifier      "80";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:19   rdf:type           skos:Concept;
+        dc:identifier      "19";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:124  rdf:type           skos:Concept;
+        dc:identifier      "124";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1596  rdf:type          skos:Concept;
+        dc:identifier      "1596";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:335  rdf:type           skos:Concept;
+        dc:identifier      "335";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:420  rdf:type           skos:Concept;
+        dc:identifier      "420";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:49   rdf:type           skos:Concept;
+        dc:identifier      "49";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. sterk kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:154  rdf:type           skos:Concept;
+        dc:identifier      "154";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:631  rdf:type           skos:Concept;
+        dc:identifier      "631";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:365  rdf:type           skos:Concept;
+        dc:identifier      "365";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:79   rdf:type           skos:Concept;
+        dc:identifier      "79";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1735  rdf:type          skos:Concept;
+        dc:identifier      "1735";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. schelph. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:184  rdf:type           skos:Concept;
+        dc:identifier      "184";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:208  rdf:type           skos:Concept;
+        dc:identifier      "208";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:395  rdf:type           skos:Concept;
+        dc:identifier      "395";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:419  rdf:type           skos:Concept;
+        dc:identifier      "419";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. à weinig schelpenh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:112  rdf:type           skos:Concept;
+        dc:identifier      "112";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:238  rdf:type           skos:Concept;
+        dc:identifier      "238";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelph. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:323  rdf:type           skos:Concept;
+        dc:identifier      "323";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1608  rdf:type          skos:Concept;
+        dc:identifier      "1608";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:37   rdf:type           skos:Concept;
+        dc:identifier      "37";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grof grind of stenen en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:142  rdf:type           skos:Concept;
+        dc:identifier      "142";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:268  rdf:type           skos:Concept;
+        dc:identifier      "268";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:353  rdf:type           skos:Concept;
+        dc:identifier      "353";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:67   rdf:type           skos:Concept;
+        dc:identifier      "67";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:172  rdf:type           skos:Concept;
+        dc:identifier      "172";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:298  rdf:type           skos:Concept;
+        dc:identifier      "298";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:383  rdf:type           skos:Concept;
+        dc:identifier      "383";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig plastisch zandh. leem of silt à weinig kalkh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:407  rdf:type           skos:Concept;
+        dc:identifier      "407";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1753  rdf:type          skos:Concept;
+        dc:identifier      "1753";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. à leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:97   rdf:type           skos:Concept;
+        dc:identifier      "97";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:100  rdf:type           skos:Concept;
+        dc:identifier      "100";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. grindh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:618  rdf:type           skos:Concept;
+        dc:identifier      "618";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "middelgrof zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:226  rdf:type           skos:Concept;
+        dc:identifier      "226";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig plastische zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:311  rdf:type           skos:Concept;
+        dc:identifier      "311";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:25   rdf:type           skos:Concept;
+        dc:identifier      "25";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:130  rdf:type           skos:Concept;
+        dc:identifier      "130";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalksteen of krijt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:256  rdf:type           skos:Concept;
+        dc:identifier      "256";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:341  rdf:type           skos:Concept;
+        dc:identifier      "341";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:9    rdf:type           skos:Concept;
+        dc:identifier      "9";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:55   rdf:type           skos:Concept;
+        dc:identifier      "55";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:160  rdf:type           skos:Concept;
+        dc:identifier      "160";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:286  rdf:type           skos:Concept;
+        dc:identifier      "286";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:371  rdf:type           skos:Concept;
+        dc:identifier      "371";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. kalksteen of zandh. krijt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:85   rdf:type           skos:Concept;
+        dc:identifier      "85";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:190  rdf:type           skos:Concept;
+        dc:identifier      "190";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. leem of klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:129  rdf:type           skos:Concept;
+        dc:identifier      "129";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:214  rdf:type           skos:Concept;
+        dc:identifier      "214";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1686  rdf:type          skos:Concept;
+        dc:identifier      "1686";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:425  rdf:type           skos:Concept;
+        dc:identifier      "425";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig humush. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:159  rdf:type           skos:Concept;
+        dc:identifier      "159";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:13   rdf:type           skos:Concept;
+        dc:identifier      "13";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:244  rdf:type           skos:Concept;
+        dc:identifier      "244";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "veel schelpengruish. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:189  rdf:type           skos:Concept;
+        dc:identifier      "189";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:43   rdf:type           skos:Concept;
+        dc:identifier      "43";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:274  rdf:type           skos:Concept;
+        dc:identifier      "274";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:73   rdf:type           skos:Concept;
+        dc:identifier      "73";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:117  rdf:type           skos:Concept;
+        dc:identifier      "117";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:202  rdf:type           skos:Concept;
+        dc:identifier      "202";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:328  rdf:type           skos:Concept;
+        dc:identifier      "328";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:413  rdf:type           skos:Concept;
+        dc:identifier      "413";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zandh. leem à klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:147  rdf:type           skos:Concept;
+        dc:identifier      "147";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:624  rdf:type           skos:Concept;
+        dc:identifier      "624";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "krijt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:232  rdf:type           skos:Concept;
+        dc:identifier      "232";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zandh. leem of zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:358  rdf:type           skos:Concept;
+        dc:identifier      "358";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. slibh. fijnzand met slibmoten"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1602  rdf:type          skos:Concept;
+        dc:identifier      "1602";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grind en grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:177  rdf:type           skos:Concept;
+        dc:identifier      "177";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:31   rdf:type           skos:Concept;
+        dc:identifier      "31";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:262  rdf:type           skos:Concept;
+        dc:identifier      "262";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:388  rdf:type           skos:Concept;
+        dc:identifier      "388";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. fijnzand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1758  rdf:type          skos:Concept;
+        dc:identifier      "1758";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:61   rdf:type           skos:Concept;
+        dc:identifier      "61";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:105  rdf:type           skos:Concept;
+        dc:identifier      "105";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:292  rdf:type           skos:Concept;
+        dc:identifier      "292";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:316  rdf:type           skos:Concept;
+        dc:identifier      "316";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:401  rdf:type           skos:Concept;
+        dc:identifier      "401";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:91   rdf:type           skos:Concept;
+        dc:identifier      "91";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:135  rdf:type           skos:Concept;
+        dc:identifier      "135";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:220  rdf:type           skos:Concept;
+        dc:identifier      "220";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig humush. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:346  rdf:type           skos:Concept;
+        dc:identifier      "346";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. weinig humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1692  rdf:type          skos:Concept;
+        dc:identifier      "1692";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. humush. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:431  rdf:type           skos:Concept;
+        dc:identifier      "431";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:165  rdf:type           skos:Concept;
+        dc:identifier      "165";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:250  rdf:type           skos:Concept;
+        dc:identifier      "250";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:376  rdf:type           skos:Concept;
+        dc:identifier      "376";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. veen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:3    rdf:type           skos:Concept;
+        dc:identifier      "3";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijn grind en leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1620  rdf:type          skos:Concept;
+        dc:identifier      "1620";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. grindh. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:195  rdf:type           skos:Concept;
+        dc:identifier      "195";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. humush. weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1354  rdf:type          skos:Concept;
+        dc:identifier      "1354";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. sterk humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1746  rdf:type          skos:Concept;
+        dc:identifier      "1746";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grof grind of stenen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:280  rdf:type           skos:Concept;
+        dc:identifier      "280";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grof grind of stenen en zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:219  rdf:type           skos:Concept;
+        dc:identifier      "219";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig humush. fijn grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:304  rdf:type           skos:Concept;
+        dc:identifier      "304";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. sterk humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:18   rdf:type           skos:Concept;
+        dc:identifier      "18";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. kalkh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:123  rdf:type           skos:Concept;
+        dc:identifier      "123";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:249  rdf:type           skos:Concept;
+        dc:identifier      "249";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. grofzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1595  rdf:type          skos:Concept;
+        dc:identifier      "1595";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. grindh. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:334  rdf:type           skos:Concept;
+        dc:identifier      "334";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1619  rdf:type          skos:Concept;
+        dc:identifier      "1619";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. fijn grind en zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:48   rdf:type           skos:Concept;
+        dc:identifier      "48";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:153  rdf:type           skos:Concept;
+        dc:identifier      "153";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. humush. grindh. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:279  rdf:type           skos:Concept;
+        dc:identifier      "279";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:630  rdf:type           skos:Concept;
+        dc:identifier      "630";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:364  rdf:type           skos:Concept;
+        dc:identifier      "364";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig plastische leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:78   rdf:type           skos:Concept;
+        dc:identifier      "78";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1734  rdf:type          skos:Concept;
+        dc:identifier      "1734";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. schelph. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:183  rdf:type           skos:Concept;
+        dc:identifier      "183";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:207  rdf:type           skos:Concept;
+        dc:identifier      "207";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:394  rdf:type           skos:Concept;
+        dc:identifier      "394";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:418  rdf:type           skos:Concept;
+        dc:identifier      "418";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:111  rdf:type           skos:Concept;
+        dc:identifier      "111";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:629  rdf:type           skos:Concept;
+        dc:identifier      "629";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:237  rdf:type           skos:Concept;
+        dc:identifier      "237";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelpengruish. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:322  rdf:type           skos:Concept;
+        dc:identifier      "322";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1607  rdf:type          skos:Concept;
+        dc:identifier      "1607";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:36   rdf:type           skos:Concept;
+        dc:identifier      "36";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grof grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:141  rdf:type           skos:Concept;
+        dc:identifier      "141";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:267  rdf:type           skos:Concept;
+        dc:identifier      "267";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grind en zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:352  rdf:type           skos:Concept;
+        dc:identifier      "352";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:66   rdf:type           skos:Concept;
+        dc:identifier      "66";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:171  rdf:type           skos:Concept;
+        dc:identifier      "171";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:297  rdf:type           skos:Concept;
+        dc:identifier      "297";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:382  rdf:type           skos:Concept;
+        dc:identifier      "382";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. zand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:406  rdf:type           skos:Concept;
+        dc:identifier      "406";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1752  rdf:type          skos:Concept;
+        dc:identifier      "1752";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. zand à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:96   rdf:type           skos:Concept;
+        dc:identifier      "96";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. veen"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:225  rdf:type           skos:Concept;
+        dc:identifier      "225";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig leemh. of kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:310  rdf:type           skos:Concept;
+        dc:identifier      "310";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. grindh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:24   rdf:type           skos:Concept;
+        dc:identifier      "24";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. of kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:255  rdf:type           skos:Concept;
+        dc:identifier      "255";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1022  rdf:type          skos:Concept;
+        dc:identifier      "1022";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. sterk humush. weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:340  rdf:type           skos:Concept;
+        dc:identifier      "340";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. klei met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:8    rdf:type           skos:Concept;
+        dc:identifier      "8";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:54   rdf:type           skos:Concept;
+        dc:identifier      "54";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. en schelph. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:285  rdf:type           skos:Concept;
+        dc:identifier      "285";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:370  rdf:type           skos:Concept;
+        dc:identifier      "370";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. grindh. en schelpengruish. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:309  rdf:type           skos:Concept;
+        dc:identifier      "309";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. grind en zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:84   rdf:type           skos:Concept;
+        dc:identifier      "84";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. klei met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:128  rdf:type           skos:Concept;
+        dc:identifier      "128";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:213  rdf:type           skos:Concept;
+        dc:identifier      "213";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:339  rdf:type           skos:Concept;
+        dc:identifier      "339";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1685  rdf:type          skos:Concept;
+        dc:identifier      "1685";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. fijnzand à zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:424  rdf:type           skos:Concept;
+        dc:identifier      "424";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:158  rdf:type           skos:Concept;
+        dc:identifier      "158";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:12   rdf:type           skos:Concept;
+        dc:identifier      "12";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:243  rdf:type           skos:Concept;
+        dc:identifier      "243";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk zandh. sterk slibh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1613  rdf:type          skos:Concept;
+        dc:identifier      "1613";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:188  rdf:type           skos:Concept;
+        dc:identifier      "188";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:42   rdf:type           skos:Concept;
+        dc:identifier      "42";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. kalkh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:273  rdf:type           skos:Concept;
+        dc:identifier      "273";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:399  rdf:type           skos:Concept;
+        dc:identifier      "399";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. kleih. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:72   rdf:type           skos:Concept;
+        dc:identifier      "72";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:116  rdf:type           skos:Concept;
+        dc:identifier      "116";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:201  rdf:type           skos:Concept;
+        dc:identifier      "201";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:327  rdf:type           skos:Concept;
+        dc:identifier      "327";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:412  rdf:type           skos:Concept;
+        dc:identifier      "412";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. zandh. klei à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:146  rdf:type           skos:Concept;
+        dc:identifier      "146";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. weinig slibh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:623  rdf:type           skos:Concept;
+        dc:identifier      "623";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:231  rdf:type           skos:Concept;
+        dc:identifier      "231";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zandh. leem a klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:357  rdf:type           skos:Concept;
+        dc:identifier      "357";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. slibh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1601  rdf:type          skos:Concept;
+        dc:identifier      "1601";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. fijnzand à zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:176  rdf:type           skos:Concept;
+        dc:identifier      "176";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. weinig plastisch leem of silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:30   rdf:type           skos:Concept;
+        dc:identifier      "30";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:261  rdf:type           skos:Concept;
+        dc:identifier      "261";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:387  rdf:type           skos:Concept;
+        dc:identifier      "387";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih à weinig leemh fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1757  rdf:type          skos:Concept;
+        dc:identifier      "1757";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. klei à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:60   rdf:type           skos:Concept;
+        dc:identifier      "60";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:104  rdf:type           skos:Concept;
+        dc:identifier      "104";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:291  rdf:type           skos:Concept;
+        dc:identifier      "291";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:315  rdf:type           skos:Concept;
+        dc:identifier      "315";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:400  rdf:type           skos:Concept;
+        dc:identifier      "400";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:90   rdf:type           skos:Concept;
+        dc:identifier      "90";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:29   rdf:type           skos:Concept;
+        dc:identifier      "29";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:134  rdf:type           skos:Concept;
+        dc:identifier      "134";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:345  rdf:type           skos:Concept;
+        dc:identifier      "345";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1691  rdf:type          skos:Concept;
+        dc:identifier      "1691";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:430  rdf:type           skos:Concept;
+        dc:identifier      "430";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:59   rdf:type           skos:Concept;
+        dc:identifier      "59";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. grindh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:164  rdf:type           skos:Concept;
+        dc:identifier      "164";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. weinig kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:375  rdf:type           skos:Concept;
+        dc:identifier      "375";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. leem of klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:2    rdf:type           skos:Concept;
+        dc:identifier      "2";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "fijn grind en kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:89   rdf:type           skos:Concept;
+        dc:identifier      "89";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1745  rdf:type          skos:Concept;
+        dc:identifier      "1745";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. leemh. fijnzand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1353  rdf:type          skos:Concept;
+        dc:identifier      "1353";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. grindh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:194  rdf:type           skos:Concept;
+        dc:identifier      "194";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:218  rdf:type           skos:Concept;
+        dc:identifier      "218";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:303  rdf:type           skos:Concept;
+        dc:identifier      "303";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. sterk humush. weinig kleih. of leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:429  rdf:type           skos:Concept;
+        dc:identifier      "429";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:17   rdf:type           skos:Concept;
+        dc:identifier      "17";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:122  rdf:type           skos:Concept;
+        dc:identifier      "122";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:248  rdf:type           skos:Concept;
+        dc:identifier      "248";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1594  rdf:type          skos:Concept;
+        dc:identifier      "1594";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig leemh. zand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:333  rdf:type           skos:Concept;
+        dc:identifier      "333";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1618  rdf:type          skos:Concept;
+        dc:identifier      "1618";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:47   rdf:type           skos:Concept;
+        dc:identifier      "47";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:152  rdf:type           skos:Concept;
+        dc:identifier      "152";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:278  rdf:type           skos:Concept;
+        dc:identifier      "278";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:363  rdf:type           skos:Concept;
+        dc:identifier      "363";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:77   rdf:type           skos:Concept;
+        dc:identifier      "77";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:182  rdf:type           skos:Concept;
+        dc:identifier      "182";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. grindh. weinig leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:206  rdf:type           skos:Concept;
+        dc:identifier      "206";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. weinig humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:393  rdf:type           skos:Concept;
+        dc:identifier      "393";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:417  rdf:type           skos:Concept;
+        dc:identifier      "417";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig zandh. plastisch leem of silt à kalkh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:110  rdf:type           skos:Concept;
+        dc:identifier      "110";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:628  rdf:type           skos:Concept;
+        dc:identifier      "628";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. leemh. zand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:236  rdf:type           skos:Concept;
+        dc:identifier      "236";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk leemh. slibh. fijnzand met slibmoten"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:321  rdf:type           skos:Concept;
+        dc:identifier      "321";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1606  rdf:type          skos:Concept;
+        dc:identifier      "1606";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "zandh. klei met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:140  rdf:type           skos:Concept;
+        dc:identifier      "140";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:266  rdf:type           skos:Concept;
+        dc:identifier      "266";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grind en weinig kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:351  rdf:type           skos:Concept;
+        dc:identifier      "351";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kleih. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:170  rdf:type           skos:Concept;
+        dc:identifier      "170";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:109  rdf:type           skos:Concept;
+        dc:identifier      "109";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:296  rdf:type           skos:Concept;
+        dc:identifier      "296";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:381  rdf:type           skos:Concept;
+        dc:identifier      "381";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig leemh. fijnzand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:405  rdf:type           skos:Concept;
+        dc:identifier      "405";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. kleih. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1751  rdf:type          skos:Concept;
+        dc:identifier      "1751";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig schelph. weinig zandh. klei à leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:95   rdf:type           skos:Concept;
+        dc:identifier      "95";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. sterk humush. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:139  rdf:type           skos:Concept;
+        dc:identifier      "139";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kleih. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:224  rdf:type           skos:Concept;
+        dc:identifier      "224";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. weinig leemh. of kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1696  rdf:type          skos:Concept;
+        dc:identifier      "1696";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. grofzand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:169  rdf:type           skos:Concept;
+        dc:identifier      "169";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "slib of leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:23   rdf:type           skos:Concept;
+        dc:identifier      "23";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. leemh. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:254  rdf:type           skos:Concept;
+        dc:identifier      "254";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. kleih. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1021  rdf:type          skos:Concept;
+        dc:identifier      "1021";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig leemh. fijnzand à weinig plastisch zandh. leem of zandh. silt"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:7    rdf:type           skos:Concept;
+        dc:identifier      "7";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:199  rdf:type           skos:Concept;
+        dc:identifier      "199";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1358  rdf:type          skos:Concept;
+        dc:identifier      "1358";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. weinig kalkh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:53   rdf:type           skos:Concept;
+        dc:identifier      "53";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:284  rdf:type           skos:Concept;
+        dc:identifier      "284";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. humush. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:308  rdf:type           skos:Concept;
+        dc:identifier      "308";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:83   rdf:type           skos:Concept;
+        dc:identifier      "83";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:127  rdf:type           skos:Concept;
+        dc:identifier      "127";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1599  rdf:type          skos:Concept;
+        dc:identifier      "1599";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelph. grofzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:338  rdf:type           skos:Concept;
+        dc:identifier      "338";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:423  rdf:type           skos:Concept;
+        dc:identifier      "423";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:157  rdf:type           skos:Concept;
+        dc:identifier      "157";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "schelph. kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:11   rdf:type           skos:Concept;
+        dc:identifier      "11";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grind en leemh. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:242  rdf:type           skos:Concept;
+        dc:identifier      "242";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk schelph. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1612  rdf:type          skos:Concept;
+        dc:identifier      "1612";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig kleih. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:187  rdf:type           skos:Concept;
+        dc:identifier      "187";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1738  rdf:type          skos:Concept;
+        dc:identifier      "1738";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk humush. kalkh. weinig leemh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:41   rdf:type           skos:Concept;
+        dc:identifier      "41";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "humush. grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:272  rdf:type           skos:Concept;
+        dc:identifier      "272";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. grindh. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:398  rdf:type           skos:Concept;
+        dc:identifier      "398";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "grindh. zandh. leem à zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:71   rdf:type           skos:Concept;
+        dc:identifier      "71";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. humush. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:115  rdf:type           skos:Concept;
+        dc:identifier      "115";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig kleih. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:200  rdf:type           skos:Concept;
+        dc:identifier      "200";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. of schelph. leemh. of kleih. zand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:326  rdf:type           skos:Concept;
+        dc:identifier      "326";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig kalkh. weinig kleih. zand met grind"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:411  rdf:type           skos:Concept;
+        dc:identifier      "411";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "kalkh. weinig humush. leemh. fijnzand à zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:145  rdf:type           skos:Concept;
+        dc:identifier      "145";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "leemh. sterk slibh. fijnzand"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:230  rdf:type           skos:Concept;
+        dc:identifier      "230";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "sterk kalkh. zandh. leem"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:356  rdf:type           skos:Concept;
+        dc:identifier      "356";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig leemh. of weinig kleih. fijnzand met steentjes"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
+
+ct:1600  rdf:type          skos:Concept;
+        dc:identifier      "1600";
+        skos:inScheme      cs:bgggkeuze;
+        skos:prefLabel     "weinig humush. grindh. zandh. klei"@nl;
+        skos:topConceptOf  cs:bgggkeuze .
