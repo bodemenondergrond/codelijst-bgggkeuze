@@ -1,0 +1,520 @@
+uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+collectie:bgggkeuze,be.vlaanderen.bodemenondergrond.data.id.collection.bgggkeuze.bgggkeuze,,collectie_bgggkeuze,Collectie van bgggkeuze.,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,
+conceptscheme:bgggkeuze,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.bgggkeuze,,bgggkeuze,Conceptschema  bgggkeuze.,,,,,,,,,,,,,,,,,,,,
+concept:1,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1,collectie:bgggkeuze,1,fijn grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:2,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.2,collectie:bgggkeuze,2,fijn grind en kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:3,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.3,collectie:bgggkeuze,3,fijn grind en leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:4,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.4,collectie:bgggkeuze,4,fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:5,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.5,collectie:bgggkeuze,5,fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:6,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.6,collectie:bgggkeuze,6,gips,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:7,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.7,collectie:bgggkeuze,7,grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:8,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.8,collectie:bgggkeuze,8,grind en grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:9,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.9,collectie:bgggkeuze,9,grind en kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:10,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.10,collectie:bgggkeuze,10,grind en leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:11,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.11,collectie:bgggkeuze,11,grind en leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:390,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.390,collectie:bgggkeuze,390,zand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:388,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.388,collectie:bgggkeuze,388,weinig kleih. fijnzand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:14,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.14,collectie:bgggkeuze,14,grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:15,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.15,collectie:bgggkeuze,15,grind en zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:16,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.16,collectie:bgggkeuze,16,grindh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:17,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.17,collectie:bgggkeuze,17,grindh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:18,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.18,collectie:bgggkeuze,18,grindh. kalkh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:19,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.19,collectie:bgggkeuze,19,grindh. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:20,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.20,collectie:bgggkeuze,20,grindh. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:21,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.21,collectie:bgggkeuze,21,grindh. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:22,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.22,collectie:bgggkeuze,22,grindh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:23,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.23,collectie:bgggkeuze,23,grindh. leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:24,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.24,collectie:bgggkeuze,24,grindh. leemh. of kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:25,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.25,collectie:bgggkeuze,25,grindh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:26,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.26,collectie:bgggkeuze,26,grindh. mergel,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:626,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.626,collectie:bgggkeuze,626,weinig kleih. à weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:100,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.100,collectie:bgggkeuze,100,kalkh. weinig humush. grindh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:631,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.631,collectie:bgggkeuze,631,kalkh. leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:632,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.632,collectie:bgggkeuze,632,fijn grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:633,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.633,collectie:bgggkeuze,633,kleih. fijnzand à leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:32,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.32,collectie:bgggkeuze,32,grindh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:33,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.33,collectie:bgggkeuze,33,grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:34,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.34,collectie:bgggkeuze,34,grindh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:36,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.36,collectie:bgggkeuze,36,grof grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:37,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.37,collectie:bgggkeuze,37,grof grind of stenen en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:38,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.38,collectie:bgggkeuze,38,grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:39,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.39,collectie:bgggkeuze,39,grofzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:40,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.40,collectie:bgggkeuze,40,humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:41,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.41,collectie:bgggkeuze,41,humush. grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:42,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.42,collectie:bgggkeuze,42,humush. kalkh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:43,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.43,collectie:bgggkeuze,43,humush. kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:44,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.44,collectie:bgggkeuze,44,humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:45,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.45,collectie:bgggkeuze,45,humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:46,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.46,collectie:bgggkeuze,46,humush. krijt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:47,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.47,collectie:bgggkeuze,47,humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:48,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.48,collectie:bgggkeuze,48,humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:51,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.51,collectie:bgggkeuze,51,humush. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:52,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.52,collectie:bgggkeuze,52,humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:53,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.53,collectie:bgggkeuze,53,humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:54,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.54,collectie:bgggkeuze,54,kalkh. en schelph. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:55,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.55,collectie:bgggkeuze,55,kalkh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:56,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.56,collectie:bgggkeuze,56,kalkh. grind en leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:58,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.58,collectie:bgggkeuze,58,kalkh. grindh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:59,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.59,collectie:bgggkeuze,59,kalkh. grindh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:60,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.60,collectie:bgggkeuze,60,kalkh. grindh. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:61,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.61,collectie:bgggkeuze,61,kalkh. grindh. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:62,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.62,collectie:bgggkeuze,62,kalkh. grindh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:63,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.63,collectie:bgggkeuze,63,kalkh. grindh. leemh. of kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:64,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.64,collectie:bgggkeuze,64,kalkh. grindh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:67,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.67,collectie:bgggkeuze,67,kalkh. grindh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:68,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.68,collectie:bgggkeuze,68,kalkh. grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:69,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.69,collectie:bgggkeuze,69,kalkh. grindh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:70,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.70,collectie:bgggkeuze,70,kalkh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:71,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.71,collectie:bgggkeuze,71,kalkh. humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:72,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.72,collectie:bgggkeuze,72,kalkh. humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:73,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.73,collectie:bgggkeuze,73,kalkh. humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:74,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.74,collectie:bgggkeuze,74,kalkh. humush. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:75,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.75,collectie:bgggkeuze,75,kalkh. humush. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:76,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.76,collectie:bgggkeuze,76,kalkh. humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:80,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.80,collectie:bgggkeuze,80,kalkh. humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:81,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.81,collectie:bgggkeuze,81,kalkh. humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:656,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.656,collectie:bgggkeuze,656,weinig kalkh. humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:83,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.83,collectie:bgggkeuze,83,kalkh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:84,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.84,collectie:bgggkeuze,84,kalkh. klei met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:85,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.85,collectie:bgggkeuze,85,kalkh. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:86,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.86,collectie:bgggkeuze,86,kalkh. kleih. fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:87,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.87,collectie:bgggkeuze,87,kalkh. kleih. fijnzand of zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:88,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.88,collectie:bgggkeuze,88,kalkh. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:89,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.89,collectie:bgggkeuze,89,kalkh. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:90,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.90,collectie:bgggkeuze,90,kalkh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:91,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.91,collectie:bgggkeuze,91,kalkh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:92,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.92,collectie:bgggkeuze,92,kalkh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:82,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.82,collectie:bgggkeuze,82,kalkh. humush. zandh. leem met schelpresten,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:657,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.657,collectie:bgggkeuze,657,humush. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:640,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.640,collectie:bgggkeuze,640,schelph. weinig humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:96,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.96,collectie:bgggkeuze,96,kalkh. veen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:126,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.126,collectie:bgggkeuze,126,kalkh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:127,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.127,collectie:bgggkeuze,127,kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:128,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.128,collectie:bgggkeuze,128,kalkh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:130,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.130,collectie:bgggkeuze,130,kalksteen of krijt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:27,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.27,collectie:bgggkeuze,27,grindh. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:28,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.28,collectie:bgggkeuze,28,grindh. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:93,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.93,collectie:bgggkeuze,93,kalkh. of schelph. sterk humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:94,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.94,collectie:bgggkeuze,94,kalkh. sterk humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:95,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.95,collectie:bgggkeuze,95,kalkh. sterk humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:97,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.97,collectie:bgggkeuze,97,kalkh. weinig humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:98,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.98,collectie:bgggkeuze,98,kalkh. weinig humush. grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:99,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.99,collectie:bgggkeuze,99,kalkh. weinig humush. grindh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:101,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.101,collectie:bgggkeuze,101,kalkh. weinig humush. grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:102,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.102,collectie:bgggkeuze,102,kalkh. weinig humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:103,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.103,collectie:bgggkeuze,103,kalkh. weinig humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:106,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.106,collectie:bgggkeuze,106,kalkh. weinig humush. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:118,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.118,collectie:bgggkeuze,118,kalkh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:129,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.129,collectie:bgggkeuze,129,kalkh. zandh. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:131,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.131,collectie:bgggkeuze,131,kalktuf,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:173,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.173,collectie:bgggkeuze,173,sterk humush. leemh. of kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:133,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.133,collectie:bgggkeuze,133,klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:134,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.134,collectie:bgggkeuze,134,kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:135,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.135,collectie:bgggkeuze,135,kleih. fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:136,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.136,collectie:bgggkeuze,136,kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:628,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.628,collectie:bgggkeuze,628,sterk kalkh. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:138,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.138,collectie:bgggkeuze,138,kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:139,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.139,collectie:bgggkeuze,139,kleih. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:140,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.140,collectie:bgggkeuze,140,leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:141,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.141,collectie:bgggkeuze,141,leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:142,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.142,collectie:bgggkeuze,142,leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:143,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.143,collectie:bgggkeuze,143,leemh. slibh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:144,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.144,collectie:bgggkeuze,144,leemh. slibh. fijnzand met slibmoten,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:629,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.629,collectie:bgggkeuze,629,schelph. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:630,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.630,collectie:bgggkeuze,630,kalkh. humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:147,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.147,collectie:bgggkeuze,147,leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:148,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.148,collectie:bgggkeuze,148,mergel,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:149,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.149,collectie:bgggkeuze,149,schelpengruish. humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:150,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.150,collectie:bgggkeuze,150,schelpengruish. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:151,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.151,collectie:bgggkeuze,151,schelph. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:152,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.152,collectie:bgggkeuze,152,schelph. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:153,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.153,collectie:bgggkeuze,153,schelph. humush. grindh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:154,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.154,collectie:bgggkeuze,154,schelph. humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:155,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.155,collectie:bgggkeuze,155,schelph. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:156,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.156,collectie:bgggkeuze,156,schelph. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:157,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.157,collectie:bgggkeuze,157,schelph. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:158,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.158,collectie:bgggkeuze,158,schelph. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:159,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.159,collectie:bgggkeuze,159,schelph. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:169,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.169,collectie:bgggkeuze,169,slib of leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:217,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.217,collectie:bgggkeuze,217,sterk kalkh. venige leem met schelpresten,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:166,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.166,collectie:bgggkeuze,166,schelph. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:167,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.167,collectie:bgggkeuze,167,schelph. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:168,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.168,collectie:bgggkeuze,168,slib,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:170,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.170,collectie:bgggkeuze,170,sterk humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:171,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.171,collectie:bgggkeuze,171,sterk humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:172,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.172,collectie:bgggkeuze,172,sterk humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:177,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.177,collectie:bgggkeuze,177,sterk humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:178,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.178,collectie:bgggkeuze,178,sterk kalkh. en schelpengruish. humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:179,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.179,collectie:bgggkeuze,179,sterk kalkh. en schelpengruish. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:180,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.180,collectie:bgggkeuze,180,sterk kalkh. en schelph. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:183,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.183,collectie:bgggkeuze,183,sterk kalkh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:184,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.184,collectie:bgggkeuze,184,sterk kalkh. humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:185,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.185,collectie:bgggkeuze,185,sterk kalkh. humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:186,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.186,collectie:bgggkeuze,186,sterk kalkh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:187,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.187,collectie:bgggkeuze,187,sterk kalkh. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:188,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.188,collectie:bgggkeuze,188,sterk kalkh. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:189,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.189,collectie:bgggkeuze,189,sterk kalkh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:190,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.190,collectie:bgggkeuze,190,sterk kalkh. leem of klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:191,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.191,collectie:bgggkeuze,191,sterk kalkh. of schelph. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:193,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.193,collectie:bgggkeuze,193,sterk kalkh. of schelph. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:194,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.194,collectie:bgggkeuze,194,sterk kalkh. of schelph. humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:196,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.196,collectie:bgggkeuze,196,sterk kalkh. of schelph. humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:197,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.197,collectie:bgggkeuze,197,sterk kalkh. of schelph. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:198,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.198,collectie:bgggkeuze,198,sterk kalkh. of schelph. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:199,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.199,collectie:bgggkeuze,199,sterk kalkh. of schelph. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:200,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.200,collectie:bgggkeuze,200,sterk kalkh. of schelph. leemh. of kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:201,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.201,collectie:bgggkeuze,201,sterk kalkh. of schelph. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:213,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.213,collectie:bgggkeuze,213,sterk kalkh. of schelph. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:214,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.214,collectie:bgggkeuze,214,sterk kalkh. of schelph. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:215,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.215,collectie:bgggkeuze,215,sterk kalkh. of schelph. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:228,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.228,collectie:bgggkeuze,228,sterk kalkh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:229,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.229,collectie:bgggkeuze,229,sterk kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:230,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.230,collectie:bgggkeuze,230,sterk kalkh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:231,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.231,collectie:bgggkeuze,231,sterk kalkh. zandh. leem a klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:232,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.232,collectie:bgggkeuze,232,sterk kalkh. zandh. leem of zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:233,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.233,collectie:bgggkeuze,233,sterk kalkh. zandh. veen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:235,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.235,collectie:bgggkeuze,235,sterk leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:236,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.236,collectie:bgggkeuze,236,sterk leemh. slibh. fijnzand met slibmoten,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:237,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.237,collectie:bgggkeuze,237,sterk schelpengruish. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:238,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.238,collectie:bgggkeuze,238,sterk schelph. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:239,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.239,collectie:bgggkeuze,239,sterk schelph. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:241,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.241,collectie:bgggkeuze,241,sterk schelph. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:242,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.242,collectie:bgggkeuze,242,sterk schelph. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:245,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.245,collectie:bgggkeuze,245,veen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:203,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.203,collectie:bgggkeuze,203,sterk kalkh. of schelph. weinig humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:216,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.216,collectie:bgggkeuze,216,sterk kalkh. sterk humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:218,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.218,collectie:bgggkeuze,218,sterk kalkh. weinig humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:219,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.219,collectie:bgggkeuze,219,sterk kalkh. weinig humush. fijn grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:220,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.220,collectie:bgggkeuze,220,sterk kalkh. weinig humush. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:221,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.221,collectie:bgggkeuze,221,sterk kalkh. weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:222,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.222,collectie:bgggkeuze,222,sterk kalkh. weinig humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:223,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.223,collectie:bgggkeuze,223,sterk kalkh. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:224,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.224,collectie:bgggkeuze,224,sterk kalkh. weinig leemh. of kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:225,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.225,collectie:bgggkeuze,225,sterk kalkh. weinig leemh. of kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:226,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.226,collectie:bgggkeuze,226,sterk kalkh. weinig plastische zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:227,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.227,collectie:bgggkeuze,227,sterk kalkh. weinig zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:234,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.234,collectie:bgggkeuze,234,sterk kleih. weinig zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:240,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.240,collectie:bgggkeuze,240,sterk schelph. weinig humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:243,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.243,collectie:bgggkeuze,243,sterk zandh. sterk slibh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:244,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.244,collectie:bgggkeuze,244,veel schelpengruish. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:246,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.246,collectie:bgggkeuze,246,weinig humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:247,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.247,collectie:bgggkeuze,247,weinig humush. grindh. leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:248,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.248,collectie:bgggkeuze,248,weinig humush. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:249,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.249,collectie:bgggkeuze,249,weinig humush. grofzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:250,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.250,collectie:bgggkeuze,250,weinig humush. kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:251,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.251,collectie:bgggkeuze,251,weinig humush. kalksteen of krijt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:252,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.252,collectie:bgggkeuze,252,weinig humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:253,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.253,collectie:bgggkeuze,253,weinig humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:254,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.254,collectie:bgggkeuze,254,weinig humush. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:255,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.255,collectie:bgggkeuze,255,weinig humush. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:256,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.256,collectie:bgggkeuze,256,weinig humush. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:257,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.257,collectie:bgggkeuze,257,weinig humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:258,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.258,collectie:bgggkeuze,258,weinig humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:307,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.307,collectie:bgggkeuze,307,weinig kalkh. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:333,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.333,collectie:bgggkeuze,333,weinig kalkh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:334,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.334,collectie:bgggkeuze,334,weinig kalkh. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:262,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.262,collectie:bgggkeuze,262,weinig humush. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:263,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.263,collectie:bgggkeuze,263,weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:264,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.264,collectie:bgggkeuze,264,weinig humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:265,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.265,collectie:bgggkeuze,265,weinig kalkh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:335,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.335,collectie:bgggkeuze,335,weinig kalkh. weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:267,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.267,collectie:bgggkeuze,267,weinig kalkh. grind en zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:268,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.268,collectie:bgggkeuze,268,weinig kalkh. grindh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:269,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.269,collectie:bgggkeuze,269,weinig kalkh. grindh. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:270,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.270,collectie:bgggkeuze,270,weinig kalkh. grindh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:271,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.271,collectie:bgggkeuze,271,weinig kalkh. grindh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:346,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.346,collectie:bgggkeuze,346,weinig kleih. weinig humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:349,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.349,collectie:bgggkeuze,349,weinig kleih. weinig kalkh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:355,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.355,collectie:bgggkeuze,355,weinig leemh. grofzand en weinig grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:277,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.277,collectie:bgggkeuze,277,weinig kalkh. grindh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:278,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.278,collectie:bgggkeuze,278,weinig kalkh. grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:279,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.279,collectie:bgggkeuze,279,weinig kalkh. grindh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:280,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.280,collectie:bgggkeuze,280,weinig kalkh. grof grind of stenen en zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:281,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.281,collectie:bgggkeuze,281,weinig kalkh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:282,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.282,collectie:bgggkeuze,282,weinig kalkh. grofzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:283,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.283,collectie:bgggkeuze,283,weinig kalkh. humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:284,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.284,collectie:bgggkeuze,284,weinig kalkh. humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:285,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.285,collectie:bgggkeuze,285,weinig kalkh. humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:286,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.286,collectie:bgggkeuze,286,weinig kalkh. humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:347,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.347,collectie:bgggkeuze,347,weinig kleih. weinig humush. weinig kalkh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:348,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.348,collectie:bgggkeuze,348,weinig kleih. weinig humush. weinig kalkh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:289,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.289,collectie:bgggkeuze,289,weinig kalkh. humush. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:290,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.290,collectie:bgggkeuze,290,weinig kalkh. humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:291,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.291,collectie:bgggkeuze,291,weinig kalkh. humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:292,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.292,collectie:bgggkeuze,292,weinig kalkh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:293,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.293,collectie:bgggkeuze,293,weinig kalkh. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:294,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.294,collectie:bgggkeuze,294,weinig kalkh. kleih. fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:295,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.295,collectie:bgggkeuze,295,weinig kalkh. kleih. fijnzand of zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:296,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.296,collectie:bgggkeuze,296,weinig kalkh. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:297,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.297,collectie:bgggkeuze,297,weinig kalkh. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:298,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.298,collectie:bgggkeuze,298,weinig kalkh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:299,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.299,collectie:bgggkeuze,299,weinig kalkh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:300,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.300,collectie:bgggkeuze,300,weinig kalkh. leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:301,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.301,collectie:bgggkeuze,301,weinig kalkh. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:306,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.306,collectie:bgggkeuze,306,weinig kalkh. veen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:337,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.337,collectie:bgggkeuze,337,weinig kalkh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:338,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.338,collectie:bgggkeuze,338,weinig kalkh. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:339,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.339,collectie:bgggkeuze,339,weinig kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:340,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.340,collectie:bgggkeuze,340,weinig kalkh. zandh. klei met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:341,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.341,collectie:bgggkeuze,341,weinig kalkh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:342,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.342,collectie:bgggkeuze,342,weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:343,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.343,collectie:bgggkeuze,343,weinig kleih. fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:344,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.344,collectie:bgggkeuze,344,weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:345,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.345,collectie:bgggkeuze,345,weinig kleih. humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:350,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.350,collectie:bgggkeuze,350,weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:351,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.351,collectie:bgggkeuze,351,weinig kleih. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:352,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.352,collectie:bgggkeuze,352,weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:353,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.353,collectie:bgggkeuze,353,weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:354,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.354,collectie:bgggkeuze,354,weinig leemh. grofzand en grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:259,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.259,collectie:bgggkeuze,259,weinig humush. weinig kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:260,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.260,collectie:bgggkeuze,260,weinig humush. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:373,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.373,collectie:bgggkeuze,373,zandh. klei met schelpgruis,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:357,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.357,collectie:bgggkeuze,357,weinig leemh. slibh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:358,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.358,collectie:bgggkeuze,358,weinig leemh. slibh. fijnzand met slibmoten,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:361,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.361,collectie:bgggkeuze,361,weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:362,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.362,collectie:bgggkeuze,362,weinig leemh. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:363,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.363,collectie:bgggkeuze,363,weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:364,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.364,collectie:bgggkeuze,364,weinig plastische leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:365,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.365,collectie:bgggkeuze,365,weinig zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:366,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.366,collectie:bgggkeuze,366,zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:370,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.370,collectie:bgggkeuze,370,zandh. grindh. en schelpengruish. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:371,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.371,collectie:bgggkeuze,371,zandh. kalksteen of zandh. krijt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:372,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.372,collectie:bgggkeuze,372,zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:374,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.374,collectie:bgggkeuze,374,zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:375,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.375,collectie:bgggkeuze,375,zandh. leem of klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:376,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.376,collectie:bgggkeuze,376,zandh. veen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:356,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.356,collectie:bgggkeuze,356,weinig leemh. of weinig kleih. fijnzand met steentjes,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:359,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.359,collectie:bgggkeuze,359,weinig leemh. sterk slibh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:360,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.360,collectie:bgggkeuze,360,weinig leemh. weinig slibh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:384,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.384,collectie:bgggkeuze,384,weinig kalkh. zandh. klei à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:386,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.386,collectie:bgggkeuze,386,weinig kalkh. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:391,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.391,collectie:bgggkeuze,391,zandh. klei à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:392,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.392,collectie:bgggkeuze,392,zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:393,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.393,collectie:bgggkeuze,393,grind en leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:394,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.394,collectie:bgggkeuze,394,grindh. leemh. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:395,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.395,collectie:bgggkeuze,395,grindh. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:396,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.396,collectie:bgggkeuze,396,grindh. leemh. à kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:397,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.397,collectie:bgggkeuze,397,grindh. zandh. klei à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:398,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.398,collectie:bgggkeuze,398,grindh. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:399,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.399,collectie:bgggkeuze,399,humush. kleih. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:400,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.400,collectie:bgggkeuze,400,humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:401,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.401,collectie:bgggkeuze,401,kalkh. grindh. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:402,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.402,collectie:bgggkeuze,402,kalkh. humush. leemh. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:403,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.403,collectie:bgggkeuze,403,kalkh. humush. zandh. leem à klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:404,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.404,collectie:bgggkeuze,404,kalkh. kleih. fijnzand à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:405,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.405,collectie:bgggkeuze,405,kalkh. kleih. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:406,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.406,collectie:bgggkeuze,406,kalkh. leemh. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:407,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.407,collectie:bgggkeuze,407,kalkh. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:377,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.377,collectie:bgggkeuze,377,zandh. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:382,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.382,collectie:bgggkeuze,382,weinig kalkh. weinig leemh. zand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:385,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.385,collectie:bgggkeuze,385,weinig kalkh. zandh. leem à weinig kalkh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:389,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.389,collectie:bgggkeuze,389,weinig leemh. fijnzand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:383,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.383,collectie:bgggkeuze,383,weinig kalkh. weinig plastisch zandh. leem of silt à weinig kalkh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:418,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.418,collectie:bgggkeuze,418,kalkh. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:420,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.420,collectie:bgggkeuze,420,kleih. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:421,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.421,collectie:bgggkeuze,421,kleih. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:423,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.423,collectie:bgggkeuze,423,leemh. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:424,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.424,collectie:bgggkeuze,424,leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:427,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.427,collectie:bgggkeuze,427,sterk kalkh. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:428,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.428,collectie:bgggkeuze,428,weinig humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:429,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.429,collectie:bgggkeuze,429,weinig kalkh. grindh. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:430,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.430,collectie:bgggkeuze,430,weinig kalkh. grindh. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:431,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.431,collectie:bgggkeuze,431,weinig kalkh. kleih. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:432,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.432,collectie:bgggkeuze,432,weinig kalkh. leemh. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:433,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.433,collectie:bgggkeuze,433,weinig kalkh. leemh. fijnzand à zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:434,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.434,collectie:bgggkeuze,434,weinig kalkh. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:419,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.419,collectie:bgggkeuze,419,kalkh. à weinig schelpenh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:422,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.422,collectie:bgggkeuze,422,leemh. fijnzand à weinig kalkh. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:425,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.425,collectie:bgggkeuze,425,schelph. weinig humush. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:426,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.426,collectie:bgggkeuze,426,sterk humush. sterk kalkh. weinig zandh. leem à klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:378,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.378,collectie:bgggkeuze,378,weinig kalkh. sterk humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:379,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.379,collectie:bgggkeuze,379,weinig kalkh. weinig humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:380,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.380,collectie:bgggkeuze,380,weinig kalkh. weinig kleih. fijnzand à weinig plastische zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:381,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.381,collectie:bgggkeuze,381,weinig kalkh. weinig leemh. fijnzand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:618,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.618,collectie:bgggkeuze,618,middelgrof zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:619,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.619,collectie:bgggkeuze,619,kleihoudend (fijn) zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:620,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.620,collectie:bgggkeuze,620,grindh.,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:621,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.621,collectie:bgggkeuze,621,fijn zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:387,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.387,collectie:bgggkeuze,387,weinig kleih à weinig leemh fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:132,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.132,collectie:bgggkeuze,132,kalktuf en schelpfragmenten weinig zandh.,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:624,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.624,collectie:bgggkeuze,624,krijt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:625,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.625,collectie:bgggkeuze,625,sterk kalkh. steengruis,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:12,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.12,collectie:bgggkeuze,12,grind en weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:13,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.13,collectie:bgggkeuze,13,grind en weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:29,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.29,collectie:bgggkeuze,29,grindh. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:30,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.30,collectie:bgggkeuze,30,grindh. weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:31,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.31,collectie:bgggkeuze,31,grindh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:49,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.49,collectie:bgggkeuze,49,humush. sterk kalkh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:50,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.50,collectie:bgggkeuze,50,humush. weinig kalkh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:57,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.57,collectie:bgggkeuze,57,kalkh. grind en weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:66,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.66,collectie:bgggkeuze,66,kalkh. grindh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:623,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.623,collectie:bgggkeuze,623,kalkh. grindh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:627,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.627,collectie:bgggkeuze,627,kalkh. grindh. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:79,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.79,collectie:bgggkeuze,79,kalkh. humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:137,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.137,collectie:bgggkeuze,137,kleih. weinig kalkh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:145,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.145,collectie:bgggkeuze,145,leemh. sterk slibh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:77,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.77,collectie:bgggkeuze,77,kalkh. humush. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:78,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.78,collectie:bgggkeuze,78,kalkh. humush. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:104,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.104,collectie:bgggkeuze,104,kalkh. weinig humush. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:105,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.105,collectie:bgggkeuze,105,kalkh. weinig humush. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:107,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.107,collectie:bgggkeuze,107,kalkh. weinig humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:108,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.108,collectie:bgggkeuze,108,kalkh. weinig humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:109,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.109,collectie:bgggkeuze,109,kalkh. weinig humush. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:110,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.110,collectie:bgggkeuze,110,kalkh. weinig humush. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:111,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.111,collectie:bgggkeuze,111,kalkh. weinig humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:112,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.112,collectie:bgggkeuze,112,kalkh. weinig humush. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:113,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.113,collectie:bgggkeuze,113,kalkh. weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:114,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.114,collectie:bgggkeuze,114,kalkh. weinig humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:115,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.115,collectie:bgggkeuze,115,kalkh. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:116,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.116,collectie:bgggkeuze,116,kalkh. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:117,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.117,collectie:bgggkeuze,117,kalkh. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:119,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.119,collectie:bgggkeuze,119,kalkh. weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:120,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.120,collectie:bgggkeuze,120,kalkh. weinig leemh. grofzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:121,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.121,collectie:bgggkeuze,121,kalkh. weinig leemh. of kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:122,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.122,collectie:bgggkeuze,122,kalkh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:123,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.123,collectie:bgggkeuze,123,kalkh. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:124,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.124,collectie:bgggkeuze,124,kalkh. weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:408,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.408,collectie:bgggkeuze,408,kalkh. weinig humush. grindh. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:409,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.409,collectie:bgggkeuze,409,kalkh. weinig humush. kleih. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:410,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.410,collectie:bgggkeuze,410,kalkh. weinig humush. kleih. zand à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:411,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.411,collectie:bgggkeuze,411,kalkh. weinig humush. leemh. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:412,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.412,collectie:bgggkeuze,412,kalkh. weinig humush. zandh. klei à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:413,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.413,collectie:bgggkeuze,413,kalkh. weinig humush. zandh. leem à klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:414,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.414,collectie:bgggkeuze,414,kalkh. weinig humush. zandh. leem à leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:415,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.415,collectie:bgggkeuze,415,kalkh. weinig humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:416,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.416,collectie:bgggkeuze,416,kalkh. weinig kleih. fijnzand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:417,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.417,collectie:bgggkeuze,417,kalkh. weinig zandh. plastisch leem of silt à kalkh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1018,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1018,collectie:bgggkeuze,1018,sterk kalkh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1019,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1019,collectie:bgggkeuze,1019,weinig kalkh. sterk humush. weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:146,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.146,collectie:bgggkeuze,146,leemh. weinig slibh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:160,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.160,collectie:bgggkeuze,160,schelph. weinig humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:162,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.162,collectie:bgggkeuze,162,schelph. weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:163,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.163,collectie:bgggkeuze,163,schelph. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:164,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.164,collectie:bgggkeuze,164,schelph. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:165,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.165,collectie:bgggkeuze,165,schelph. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:174,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.174,collectie:bgggkeuze,174,sterk humush. sterk kalkh. klei of leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:175,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.175,collectie:bgggkeuze,175,sterk humush. sterk kalkh. zandh. klei of leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:176,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.176,collectie:bgggkeuze,176,sterk humush. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:181,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.181,collectie:bgggkeuze,181,sterk kalkh. grind en weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:182,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.182,collectie:bgggkeuze,182,sterk kalkh. grindh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:192,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.192,collectie:bgggkeuze,192,sterk kalkh. of schelph. grindh. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:195,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.195,collectie:bgggkeuze,195,sterk kalkh. of schelph. humush. weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:202,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.202,collectie:bgggkeuze,202,sterk kalkh. of schelph. weinig humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:204,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.204,collectie:bgggkeuze,204,sterk kalkh. of schelph. weinig humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:205,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.205,collectie:bgggkeuze,205,sterk kalkh. of schelph. weinig humush. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:206,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.206,collectie:bgggkeuze,206,sterk kalkh. of schelph. weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:207,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.207,collectie:bgggkeuze,207,sterk kalkh. of schelph. weinig humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:208,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.208,collectie:bgggkeuze,208,sterk kalkh. of schelph. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:209,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.209,collectie:bgggkeuze,209,sterk kalkh. of schelph. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:210,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.210,collectie:bgggkeuze,210,sterk kalkh. of schelph. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:211,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.211,collectie:bgggkeuze,211,sterk kalkh. of schelph. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:305,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.305,collectie:bgggkeuze,305,sterk kalkh. of schelph. weinig humush. zandh. leem à zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:161,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.161,collectie:bgggkeuze,161,schelph. weinig humush. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:261,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.261,collectie:bgggkeuze,261,weinig humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:266,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.266,collectie:bgggkeuze,266,weinig kalkh. grind en weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:272,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.272,collectie:bgggkeuze,272,weinig kalkh. grindh. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:273,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.273,collectie:bgggkeuze,273,weinig kalkh. grindh. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:274,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.274,collectie:bgggkeuze,274,weinig kalkh. grindh. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:275,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.275,collectie:bgggkeuze,275,weinig kalkh. grindh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:276,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.276,collectie:bgggkeuze,276,weinig kalkh. grindh. weinig leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:287,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.287,collectie:bgggkeuze,287,weinig kalkh. humush. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:288,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.288,collectie:bgggkeuze,288,weinig kalkh. humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:302,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.302,collectie:bgggkeuze,302,weinig kalkh. sterk humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:303,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.303,collectie:bgggkeuze,303,weinig kalkh. sterk humush. weinig kleih. of leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:304,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.304,collectie:bgggkeuze,304,weinig kalkh. sterk humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:308,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.308,collectie:bgggkeuze,308,weinig kalkh. weinig humush. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:309,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.309,collectie:bgggkeuze,309,weinig kalkh. weinig humush. grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:310,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.310,collectie:bgggkeuze,310,weinig kalkh. weinig humush. grindh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:311,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.311,collectie:bgggkeuze,311,weinig kalkh. weinig humush. grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:312,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.312,collectie:bgggkeuze,312,weinig kalkh. weinig humush. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:313,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.313,collectie:bgggkeuze,313,weinig kalkh. weinig humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:314,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.314,collectie:bgggkeuze,314,weinig kalkh. weinig humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:315,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.315,collectie:bgggkeuze,315,weinig kalkh. weinig humush. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:316,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.316,collectie:bgggkeuze,316,weinig kalkh. weinig humush. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:317,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.317,collectie:bgggkeuze,317,weinig kalkh. weinig humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:318,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.318,collectie:bgggkeuze,318,weinig kalkh. weinig humush. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:319,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.319,collectie:bgggkeuze,319,weinig kalkh. weinig humush. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:320,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.320,collectie:bgggkeuze,320,weinig kalkh. weinig humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:321,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.321,collectie:bgggkeuze,321,weinig kalkh. weinig humush. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:322,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.322,collectie:bgggkeuze,322,weinig kalkh. weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:323,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.323,collectie:bgggkeuze,323,weinig kalkh. weinig humush. zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:324,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.324,collectie:bgggkeuze,324,weinig kalkh. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:325,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.325,collectie:bgggkeuze,325,weinig kalkh. weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:326,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.326,collectie:bgggkeuze,326,weinig kalkh. weinig kleih. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:327,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.327,collectie:bgggkeuze,327,weinig kalkh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:328,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.328,collectie:bgggkeuze,328,weinig kalkh. weinig leemh. fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:329,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.329,collectie:bgggkeuze,329,weinig kalkh. weinig leemh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:330,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.330,collectie:bgggkeuze,330,weinig kalkh. weinig leemh. grofzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:331,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.331,collectie:bgggkeuze,331,weinig kalkh. weinig leemh. of kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:332,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.332,collectie:bgggkeuze,332,weinig kalkh. weinig leemh. of weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1020,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1020,collectie:bgggkeuze,1020,kalkh. sterk humush. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1021,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1021,collectie:bgggkeuze,1021,kalkh. weinig leemh. fijnzand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1022,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1022,collectie:bgggkeuze,1022,kalkh. sterk humush. weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1354,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1354,collectie:bgggkeuze,1354,sterk kalkh. of schelph. sterk humush. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1353,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1353,collectie:bgggkeuze,1353,sterk kalkh. of schelph. grindh. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1355,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1355,collectie:bgggkeuze,1355,schelpengruish. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1356,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1356,collectie:bgggkeuze,1356,sterk schelpengruish. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1357,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1357,collectie:bgggkeuze,1357,weinig humush. weinig kalkh. grind en weinig kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1358,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1358,collectie:bgggkeuze,1358,weinig humush. weinig kalkh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1392,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1392,collectie:bgggkeuze,1392,glauconieth. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1593,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1593,collectie:bgggkeuze,1593,grindh. leemh. grofzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1594,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1594,collectie:bgggkeuze,1594,grindh. weinig leemh. zand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1595,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1595,collectie:bgggkeuze,1595,sterk kalkh. of schelph. grindh. kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1596,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1596,collectie:bgggkeuze,1596,sterk kalkh. of schelph. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1597,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1597,collectie:bgggkeuze,1597,sterk kalkh. of schelph. grindh. weinig kleih. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1598,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1598,collectie:bgggkeuze,1598,sterk kalkh. en schelph. weinig humush. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1599,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1599,collectie:bgggkeuze,1599,sterk schelph. grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1600,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1600,collectie:bgggkeuze,1600,weinig humush. grindh. zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1601,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1601,collectie:bgggkeuze,1601,weinig kleih. fijnzand à zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1602,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1602,collectie:bgggkeuze,1602,weinig kalkh. grind en grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1603,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1603,collectie:bgggkeuze,1603,weinig kalkh. fijn grind en grofzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1604,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1604,collectie:bgggkeuze,1604,zandh. leem met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1605,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1605,collectie:bgggkeuze,1605,kalkh. zandh leem à kalkh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1606,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1606,collectie:bgggkeuze,1606,zandh. klei met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1607,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1607,collectie:bgggkeuze,1607,weinig kalkh. zandh. weinig plastisch leem of silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1608,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1608,collectie:bgggkeuze,1608,zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1609,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1609,collectie:bgggkeuze,1609,kalkh. humush. leemh. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1610,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1610,collectie:bgggkeuze,1610,weinig kalkh. fijn grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1611,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1611,collectie:bgggkeuze,1611,kalkh. leemh. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1612,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1612,collectie:bgggkeuze,1612,weinig kalkh. weinig kleih. fijnzand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1613,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1613,collectie:bgggkeuze,1613,weinig humush. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1615,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1615,collectie:bgggkeuze,1615,weinig kalkh. grind en zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1616,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1616,collectie:bgggkeuze,1616,weinig kalkh. kleih. zand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1617,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1617,collectie:bgggkeuze,1617,weinig kalkh. humush. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1618,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1618,collectie:bgggkeuze,1618,grindh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1619,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1619,collectie:bgggkeuze,1619,kalkh. fijn grind en zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1620,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1620,collectie:bgggkeuze,1620,kalkh. weinig humush. grindh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1621,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1621,collectie:bgggkeuze,1621,humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1623,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1623,collectie:bgggkeuze,1623,weinig kleih. weinig humush. weinig kalkh. fijnzand à zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1685,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1685,collectie:bgggkeuze,1685,sterk kalkh. fijnzand à zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1686,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1686,collectie:bgggkeuze,1686,zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1687,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1687,collectie:bgggkeuze,1687,weinig kleih. à leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1689,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1689,collectie:bgggkeuze,1689,kalkh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1690,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1690,collectie:bgggkeuze,1690,sterk kalkh. of schelph. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1691,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1691,collectie:bgggkeuze,1691,kalkh. zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1692,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1692,collectie:bgggkeuze,1692,sterk kalkh. humush. kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1693,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1693,collectie:bgggkeuze,1693,weinig kalkh. sterk humush. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1694,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1694,collectie:bgggkeuze,1694,kalkh. weinig zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1688,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1688,collectie:bgggkeuze,1688,kalkh. weinig kleih. fijnzand à kalkh. zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1695,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1695,collectie:bgggkeuze,1695,kalkh. leemh. à kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1696,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1696,collectie:bgggkeuze,1696,weinig leemh. grofzand à weinig plastisch zandh. leem of zandh. silt,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1734,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1734,collectie:bgggkeuze,1734,sterk kalkh. schelph. weinig kleih. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1735,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1735,collectie:bgggkeuze,1735,sterk kalkh. schelph. kleih. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1736,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1736,collectie:bgggkeuze,1736,sterk kalkh. schelph. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1737,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1737,collectie:bgggkeuze,1737,sterk kalkh. schelph. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1738,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1738,collectie:bgggkeuze,1738,sterk humush. kalkh. weinig leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1744,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1744,collectie:bgggkeuze,1744,kalkh. zandh. leem à kalkh. leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1745,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1745,collectie:bgggkeuze,1745,kalkh. leemh. fijnzand met grind,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1746,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1746,collectie:bgggkeuze,1746,grof grind of stenen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1747,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1747,collectie:bgggkeuze,1747,weinig humush. kalksteen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1748,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1748,collectie:bgggkeuze,1748,sterk kalkh. veen,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1749,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1749,collectie:bgggkeuze,1749,kalkh. weinig zandh. klei à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1750,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1750,collectie:bgggkeuze,1750,humush. weinig zandh. klei,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1751,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1751,collectie:bgggkeuze,1751,weinig schelph. weinig zandh. klei à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1752,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1752,collectie:bgggkeuze,1752,kleih. zand à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1753,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1753,collectie:bgggkeuze,1753,kleih. à leemh. fijnzand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1754,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1754,collectie:bgggkeuze,1754,humush. zandh. klei à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1755,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1755,collectie:bgggkeuze,1755,grindh. zandh. klei à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1756,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1756,collectie:bgggkeuze,1756,weinig schelph. zand,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1757,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1757,collectie:bgggkeuze,1757,zandh. klei à leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
+concept:1758,be.vlaanderen.bodemenondergrond.data.id.concept.bgggkeuze.1758,collectie:bgggkeuze,1758,schelph. leemh. zand à zandh. leem,,,,,,,,,,,,,conceptscheme:bgggkeuze,,,,,,,conceptscheme:bgggkeuze
